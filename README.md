@@ -1,3 +1,5 @@
+Live Demo: https://workday-wizard-companion.lovable.app`
+
 AI-Productivity-Assistant
 
 Project Overview
