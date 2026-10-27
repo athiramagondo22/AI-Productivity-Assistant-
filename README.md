@@ -73,6 +73,6 @@ GitHub: @athiramagondo22
 CAPACITI - UVU Africa - 2026
 
 Links
-- Live Demo: [Add your Lovable link here]
+- Live Demo: https://workday-wizard-companion.lovable.app
 - GitHub: https://github.com/athiramagondo22/AI-Productivity-Assistant-
 5. Scroll down, tap *Commit changes* > *Commit changes* again
