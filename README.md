@@ -1,29 +1,29 @@
-# Welcome to your Lovable project
+Clarity Workday - AI Workplace Productivity Assistant
 
-This project was built with [Lovable](https://lovable.dev).
+📖 Project Overview
 
-## Build with Lovable
+Clarity Workday is a modern, responsive web application designed to help professionals automate their daily workplace tasks using Artificial Intelligence. Built as part of the CAPACITI AI Skills Acceleration Programme, this application serves as a unified dashboard that brings multiple AI tools together into one seamless, SaaS-style platform.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+The goal is to demonstrate practical AI implementation, effective prompt engineering, and responsible AI usage while providing a clean and intuitive user experience.
+ Features Implemented
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+1. **Smart Email Generator:** Drafts professional emails in seconds, supporting multiple tones (Formal, Friendly, Persuasive).
 
-## Development
+2. **Meeting Notes Summarizer:** Transforms lengthy meeting notes into concise summaries, extracting key decisions, action items, and deadlines.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+3. **AI Task Planner:** Helps users prioritize tasks and generate structured daily or weekly schedules.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+4. **AI Research Assistant:** Provides structured briefs, insights, and summaries on any requested topic.
 
-## Built with
+5. **AI Chatbot Interface:** An interactive, conversational AI assistant to help with general workplace queries.
+
+ Built with
 
 - TanStack Start
-- TypeScript
+- TypeScript 98.2%
 - React
 - Tailwind CSS
+- Lovable + Vite
+
+👤 Author
+Athi Ramagondo - CAPACITI Project by Yonela - 2026
